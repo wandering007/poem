@@ -1,7 +1,7 @@
 # Poem  
 This is a casual repository just for self entertainment.
 Once I watched the wonder of [fish rain](https://www.youtube.com/watch?v=MKWfNSFXzqw) on the television. It striked me.
-The strong wind carrys fish and brings them into a brand new world. Whether fish are surprised or get terrified during the experience? 
+The strong wind carrys fish and brings them into a brand new world. Are fish surprised or get terrified during the experience? 
 Fantastic imagination, isn't it? Therefore, I use **Fish Falling from the Sky** as my pseudonym.
 
 # 诗  
