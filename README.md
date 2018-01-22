@@ -2,7 +2,7 @@
 This is a casual repository just for self entertainment.
 Once I watched the wonder of [fish rain](https://www.youtube.com/watch?v=MKWfNSFXzqw) on the television. It striked me.
 The strong wind carrys fish and brings them into a brand new world. Do fish feel terrified or surprised during the experience? 
-Fantastic imagination, isn't it? Therefore, I use **Fish Falling from the Sky** as my pseudonym.
+Fantastic imagination, isn't it? Therefore, I use **The Fish Falling from Sky** as my pseudonym.
 
 # 诗  
 这是一个随意的项目，聊以自娱自乐。曾经在电视上看到[鱼雨](https://www.youtube.com/watch?v=MKWfNSFXzqw)的奇观，
